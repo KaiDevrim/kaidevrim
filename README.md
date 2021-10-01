@@ -1,5 +1,5 @@
 # :wave: Hello there! I'm Kai "Devrim" McCormick</h1>
-:smile: I am a High School Sophomore at University Preparatory Academy in San Jose, California! I love to make useful tools for everyone and also making stuff that will benefit the future!</h3>
+:smile: I am a High School Junior at University Preparatory Academy in San Jose, California! I love to make useful tools for everyone and also making stuff that will benefit the future!</h3>
 
 <p align="left">
   <a href="https://thetahacks.tech">
@@ -7,9 +7,6 @@
   </a>
   <a href="https://codeday.org">
     <img src="https://img.shields.io/badge/Volunteer%20At-CodeDay-orange?link=https://codeday.org?" alt="ThetaHacks" />
-  </a>
-  <a href="https://scribehacks.tech">
-    <img src="https://img.shields.io/badge/Volunteer%20At-ScribeHacks-white?link=https://scribehacks.tech?" alt="ThetaHacks" />
   </a>
   <a href="https://github.com/KaiDevrim?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/KaiDevrim?color=green&logo=github">
@@ -20,13 +17,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaidevrim&show_icons=true&count_private=true&include_all_commits=true" alt="kaidevrim" align="right" />
 </a>
 
-* :office:  I'm currently volunteering at [CodeDay](https://codeday.org), [ScribeHacks](https://scribehacks.tech), and [ThetaHacks](https://thetahacks.tech)
+* :office:  I'm currently on my Homelab and Self-Hosting community projects.
+* 🗣️ I am a huge One Piece fan and will talk to you for hours about One Piece.
 * :newspaper:  Read my **[Blog](https://blog.devrim.tech)**
-* :seedling:  I'm currently learning **Rust and Flutter**
+* :seedling:  I'm currently learning **Ansible and Kubernetes**
 * :speech_balloon:  I like to talk about **Servers** and **Backend**
 * :email:  Checkout my [resume](https://devrim.tech/Kai_McCormick_Resume.pdf)
-* :mailbox:  Contact me directly on my Discord **Devrim#9999**
-* :mortar_board:  Connect with me on **[LinkedIn](https://linkedin.com/in/kai-mccormick)**
+* 🐧:  Contact me directly on my Discord **Devrim#9999**
+* 📬:  Email me about 
 * :bird: Follow me on [Twitter](https://twitter.com/devrimkai)
 
 <br>
