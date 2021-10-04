@@ -18,14 +18,14 @@
 </a>
 
 * :office:  I'm currently on my Homelab and Self-Hosting community projects.
-* 🗣️ I am a huge One Piece fan and will talk to you for hours about One Piece.
-* :newspaper:  Read my **[Blog](https://blog.devrim.tech)**
-* :seedling:  I'm currently learning **Ansible and Kubernetes**
-* :speech_balloon:  I like to talk about **Servers** and **Backend**
-* :email:  Checkout my [resume](https://devrim.tech/Kai_McCormick_Resume.pdf)
-* 🐧:  Contact me directly on my Discord **Devrim#9999**
-* 📬:  Email me about 
-* :bird: Follow me on [Twitter](https://twitter.com/devrimkai)
+* 🗣️  I am a huge One Piece fan and will talk to you for hours about One Piece.
+* :newspaper:   Read my **[Blog](https://blog.devrim.tech)**
+* :seedling:   I'm currently learning **Ansible and Kubernetes**
+* :speech_balloon:   I like to talk about **Servers** and **Backend**
+* :email:   Checkout my [resume](https://devrim.tech/Kai_McCormick_Resume.pdf)
+* 🐧:   Contact me directly on my Discord **Devrim#9999**
+* 📬:   Email me about 
+* :bird:  Follow me on [Twitter](https://twitter.com/devrimkai)
 
 <br>
 
