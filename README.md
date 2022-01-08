@@ -1,5 +1,5 @@
 # :wave: Hello there! I'm Kai "Devrim" McCormick</h1>
-:smile: I am a High School Junior at University Preparatory Academy in San Jose, California! I love to make useful tools for everyone and also making stuff that will benefit the future!</h3>
+:smile: I am a High School Junior in San Jose, California! I love to make useful tools for everyone and also making stuff that will benefit the future!</h3>
 
 <p align="left">
   <a href="https://thetahacks.tech">
@@ -22,9 +22,8 @@
 * :newspaper:   Read my **[Blog](https://blog.devrim.tech)**
 * :seedling:   I'm currently learning **Ansible and Kubernetes**
 * :speech_balloon:   I like to talk about **Servers** and **Backend**
-* :email:   Checkout my [resume](https://devrim.tech/Kai_McCormick_Resume.pdf)
 * 🐧:   Contact me directly on my Discord **Devrim#9999**
-* 📬:   Email me about 
+* 📬:   Email me about anything at kai@devrim.tech
 * :bird:  Follow me on [Twitter](https://twitter.com/devrimkai)
 
 <br>
