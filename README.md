@@ -20,9 +20,9 @@
 * :office:  I'm currently on my Homelab and Self-Hosting community projects.
 * 🗣️  I am a huge One Piece fan and will talk to you for hours about One Piece.
 * :newspaper:   Read my **[Blog](https://blog.devrim.tech)**
-* :seedling:   I'm currently learning **Ansible and Kubernetes**
+* :seedling:   I'm currently learning **Ansible and Terraform**
 * :speech_balloon:   I like to talk about **Servers** and **Backend**
-* 🐧:   Contact me directly on my Discord **Devrim#9999**
+* 🐧:   Contact me directly on my Discord **Kai#5748**
 * 📬:   Email me about anything at kai@devrim.tech
 * :bird:  Follow me on [Twitter](https://twitter.com/devrimkai)
 
