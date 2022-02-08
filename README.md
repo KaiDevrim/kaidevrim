@@ -2,9 +2,6 @@
 :smile: I am a High School Junior in San Jose, California! I love to make useful tools for everyone and also making stuff that will benefit the future!</h3>
 
 <p align="left">
-  <a href="https://thetahacks.tech">
-    <img src="https://img.shields.io/badge/Volunteer%20At-ThetaHacks-purple?link=https://thetahacks.tech?" alt="ThetaHacks" />
-  </a>
   <a href="https://codeday.org">
     <img src="https://img.shields.io/badge/Volunteer%20At-CodeDay-orange?link=https://codeday.org?" alt="ThetaHacks" />
   </a>
