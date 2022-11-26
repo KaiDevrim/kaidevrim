@@ -1,5 +1,5 @@
 # :wave: Hello there! I'm Kai "Devrim" McCormick</h1>
-:smile: I am a High School Junior in San Jose, California! I love to make useful tools for everyone and also making stuff that will benefit the future!</h3>
+:smile: I am a High School Senior in San Jose, California! I love to make useful tools for everyone and also making stuff that will benefit the future!</h3>
 
 <p align="left">
   <a href="https://codeday.org">
@@ -17,7 +17,7 @@
 * :office:  I'm currently on my Homelab and Self-Hosting community projects.
 * 🗣️  I am a huge One Piece fan and will talk to you for hours about One Piece.
 * :newspaper:   Read my **[Blog](https://devrim.tech/blog)**
-* :seedling:   I'm currently learning **Ansible and ASP.Net**
+* :seedling:   I'm currently learning **ASP.Net, C#, and .Net MAUI**
 * :speech_balloon:   I like to talk about **Servers** and **Backend**
 * 🐧:   Contact me directly on my Discord **Kai#5748**
 * 📬:   Email me about anything at kai@devrim.tech
