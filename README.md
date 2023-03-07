@@ -17,7 +17,6 @@
 * :office:  I'm currently on my Homelab and Self-Hosting community projects.
 * 🗣️  I am a huge One Piece fan and will talk to you for hours about One Piece.
 * :newspaper:   Read my **[Blog](https://devrim.tech/blog)**
-* :seedling:   I'm currently learning **ASP.Net, C#, and .Net MAUI**
 * :speech_balloon:   I like to talk about **Servers** and **Backend**
 * 🐧:   Contact me directly on my Discord **Kai#5748**
 * 📬:   Email me about anything at kai@devrim.tech
