@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<a href="#kaidevrim-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaidevrim&show_icons=true&count_private=true&include_all_commits=true" alt="kaidevrim" align="right" />
-</a>
-
 * 🗣️  I am a huge One Piece fan and will talk to you for hours about One Piece.
 * :newspaper:   Read my **[Blog](https://devrim.tech/blog)**
 * :speech_balloon:   I like to talk about **Servers** and **Backend**
