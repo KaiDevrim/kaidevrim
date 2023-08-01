@@ -12,8 +12,8 @@
 
 * 🗣️  I am a huge One Piece fan and will talk to you for hours about One Piece.
 * :newspaper:   Read my **[Blog](https://devrim.tech/blog)**
-* :speech_balloon:   I like to talk about **Servers** and **Backend**
-* 🐧:   Contact me directly on my Discord **Kai#5748**
+* :speech_balloon:   I like to talk about **Servers**, **Backend**, and **.Net**
+* 🐧:   Contact me directly on my Discord **san_jose**
 * 📬:   Email me about anything at kai@devrim.tech
 * :bird:  Follow me on [Twitter](https://twitter.com/devrimkai)
 
