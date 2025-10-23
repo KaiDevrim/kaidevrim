@@ -34,7 +34,6 @@
 
 ## Get in Touch
 
-- 🐦 Follow me on [Twitter](https://twitter.com/devrimkai)  
 - 📬 Email me at kai@devrim.tech  
 - 💬 Discord: san_jose  
 - :newspaper: Check out my **[Blog](https://devrim.tech/blog)**  
