@@ -1,10 +1,10 @@
 # :wave: Hello there! I'm Kai "Devrim"
 
-:smile: I am a Computer Science student at Bellevue College in Seattle, Washington! I love creating useful tools and projects that benefit the future and everyone who uses them.
+:smile: I am a Software Engineer at Xtatic and a Computer Science student at Bellevue College in Seattle, Washington! I love creating useful tools and projects that benefit the future and everyone who uses them.
 
 <p align="left">
-  <a href="https://codeday.org">
-    <img src="https://img.shields.io/badge/Volunteer%20At-CodeDay-orange" alt="CodeDay" />
+  <a href="https://www.xtatic.org/">
+    <img src="https://img.shields.io/badge/SWE%20At-Xtatic-orange" alt="CodeDay" />
   </a>
   <a href="https://github.com/KaiDevrim?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/KaiDevrim?color=green&logo=github" />
