@@ -20,7 +20,7 @@
 
 ## Featured Projects
 
-- [**BobaPal**](https://github.com/kaidevrim/buhba)  
+- [**BobaPal**](https://github.com/kaidevrim/BobaPal)  
   Cross-platform mobile app in React Native + Tailwind CSS with 100+ users, AWS Cognito auth, offline-first WatermelonDB, and CI/CD with AWS Amplify.
 
 - [**Home Server**](https://dash.dvr.im)  
